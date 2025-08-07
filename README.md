@@ -1,21 +1,21 @@
-# í¿“ Pong Game
+# ğŸ“ Pong Game
 
 A Python-based recreation of the classic Pong game using the Turtle graphics module. This project helped me sharpen my **logical thinking**, improve my grasp of **Object-Oriented Programming (OOP)**, and refine my ability to structure interactive applications.
 
 ---
 
-## í¾® Game Features
+## ğŸ® Game Features
 
-- íµ¹ï¸ Two-player paddle control
-- í·  Ball movement with realistic bounce logic
-- í·± Collision detection with paddles and walls
-- í·¾ Score tracking and display
-- í´ Game reset and replay functionality
-- í·© Modular code design using classes
+- ğŸ•¹ï¸ Two-player paddle control
+- ğŸ§  Ball movement with realistic bounce logic
+- ğŸ§± Collision detection with paddles and walls
+- ğŸ§¾ Score tracking and display
+- ğŸ” Game reset and replay functionality
+- ğŸ§© Modular code design using classes
 
 ---
 
-## í·  What I Learned
+## ğŸ§  What I Learned
 
 Building this game was a major step forward in my programming journey. I explored and improved:
 
@@ -27,7 +27,7 @@ Building this game was a major step forward in my programming journey. I explore
 
 ---
 
-## í» ï¸ Tech Stack
+## ğŸ› ï¸ Tech Stack
 
 | Language | Libraries Used |
 |----------|----------------|
@@ -35,7 +35,7 @@ Building this game was a major step forward in my programming journey. I explore
 
 ---
 
-## íº€ How to Run Locally
+## ğŸš€ How to Run Locally
 
 1. Clone the repository:
    ```bash
